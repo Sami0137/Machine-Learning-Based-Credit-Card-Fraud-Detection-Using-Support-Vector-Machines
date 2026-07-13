@@ -168,7 +168,7 @@ Machine-Learning-Based-Credit-Card-Fraud-Detection-Using-Support-Vector-Machines
 Clone the repository.
 
 ```bash
-git clone https://github.com/<your-username>/Machine-Learning-Based-Credit-Card-Fraud-Detection-Using-Support-Vector-Machines.git
+git clone https://github.com/Sami0137/Machine-Learning-Based-Credit-Card-Fraud-Detection-Using-Support-Vector-Machines.git
 ```
 
 Install the required packages.
